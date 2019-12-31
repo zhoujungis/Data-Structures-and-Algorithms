@@ -1,4 +1,10 @@
 from binsearchtree import DictBinTree
+from bintree import BinTNode
+
+class AVLNode(BinTNode):
+     def __init__(self, data):
+          BinTNode.__init__(self, data)
+          self.bf = 0
 
 class DictAVL(DictBinTree):
      def __init__(self):
