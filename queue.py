@@ -13,12 +13,12 @@ class SQueue:
 
     def peek(self):
         if self._num == 0:
-            raise QueueUnderflow
+            raise QueueUnderflow("in peek.")
         return self._elems[self._head]
 
     def dequeue(self):
         if self._num == 0:
-            raise QueueUnderflow
+            raise QueueUnderflow("in dequeue.")
         e = self._elems[self._head]
         self._head = (self._head+1) % self._len
         self._num -= 1
