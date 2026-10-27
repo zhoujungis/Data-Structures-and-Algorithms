@@ -12,3 +12,7 @@ In Python
 8. [Balanced Binary Tree](https://github.com/zhoujungis/Data-Structures-and-Algorithms/blob/master/balancedbintree.py)
 9. [Graph](https://github.com/zhoujungis/Data-Structures-and-Algorithms/blob/master/graph.py)
 10. [Sort Algorithms](https://github.com/zhoujungis/Data-Structures-and-Algorithms/blob/master/sort.py)
+
+## LeetCode Solutions
+
+49 problem notes covering 56 LeetCode problems - statement, key idea, and Python/Java solutions. See [problems/README.md](problems/README.md).
