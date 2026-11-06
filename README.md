@@ -149,3 +149,11 @@
 | 未标注 | 30 |
 | 简单（141）/ 中等（142） | 1 |
 | **合计** | **49** |
+
+---
+
+## 相关阅读
+
+- 博客：[尘世栈帧 · 技术、编程、AI 与科学](https://blog.zhoujun.dev/)
+- 题解专题：[LeetCode 题解](https://blog.zhoujun.dev/topics/leetcode/)
+- 单题详解：[【LC 146】LRU 缓存：手写哈希表与双向链表](https://blog.zhoujun.dev/article/lc-146-lru-cache/)
